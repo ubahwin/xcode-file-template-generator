@@ -1,6 +1,6 @@
 # File Template Generator
 
-## How it work
+## How it works
 
 You can create your own file template
 
@@ -12,7 +12,7 @@ You can create your own file template
 ## Install
 
 * Go to `cd File\ Template\ Generator`
-* Run `chmod +x run.ubah`
+* Run `chmod +x run.sh`
 * Change `template-text.txt`
 > Example: 
 > ```swift
@@ -24,7 +24,7 @@ You can create your own file template
 >
 >``` 
 
-* Run `./run.ubah <template name>`
+* Run `./run.sh <template name>`
 * Done!
 
 <div align="center">

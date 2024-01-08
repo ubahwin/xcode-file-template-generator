@@ -11,7 +11,7 @@ You can create your own file template
 
 ## Install
 
-* Go to `cd File\ Template\ Generator`
+* Go to `cd xcode-file-template-generator`
 * Run `chmod +x run.sh`
 * Change `template-text.txt`
 > Example: 
@@ -22,7 +22,7 @@ You can create your own file template
 >
 >import Foundation
 >
->``` 
+>```
 
 * Run `./run.sh <template name>`
 * Done!
